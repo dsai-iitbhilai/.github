@@ -28,9 +28,9 @@ Stay updated with our latest events, announcements, and resources. Join the conv
 
 We are driven by a dedicated team of student volunteers.
 
-### 🧑‍🏫 Coordinators (2025-2026)
+### 🧑‍🏫 Coordinators (2026-2027)
 
-* **Kesav Patneedi** - Coordinator
-    * [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/kesav-patneedi-b804932a9/) | [GitHub](https://github.com/[username])
-* **Varun Rao** - Coordinator
+* **Vatsal Yadav** - Coordinator
+    * [LinkedIn](https://www.linkedin.com/in/vatsal-yadav/) | [GitHub](https://github.com/vatsalyd)
+* **Siddhesh Bansal** - Coordinator
     * [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/varun3ware/) | [GitHub](https://github.com/[username])
