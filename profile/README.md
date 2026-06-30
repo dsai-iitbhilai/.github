@@ -33,4 +33,4 @@ We are driven by a dedicated team of student volunteers.
 * **Vatsal Yadav** - Coordinator
     * [LinkedIn](https://www.linkedin.com/in/vatsal-yadav/) | [GitHub](https://github.com/vatsalyd)
 * **Siddhesh Bansal** - Coordinator
-    * [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/varun3ware/) | [GitHub](https://github.com/[username])
+    * [LinkedIn](https://www.linkedin.com/in/siddhesh-bansal-646a98325/) | [GitHub](https://github.com/Siddhesh1420)
